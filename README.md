@@ -1,2 +1,2 @@
 # Eric-geochem.io
-personal website
+personal website https://eric-geochem.github.io/
